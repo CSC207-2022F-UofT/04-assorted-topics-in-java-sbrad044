@@ -53,7 +53,7 @@ public class Trader<T> {
      */
 
     public void addToWishlist(T object) {
-        this.inventory.add(object);
+        this.wishlist.add(object);
     }
 
 
